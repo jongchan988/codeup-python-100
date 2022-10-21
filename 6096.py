@@ -29,7 +29,6 @@ for i in range(n):
             d[j][y] = 1
 
 # 출력
-print("출력합니다.")
 for i in range(h):
     for j in range(w):
         print(d[i][j], end = " ")
